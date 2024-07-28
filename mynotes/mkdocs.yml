@@ -2,4 +2,6 @@ site_name: BiologyNote
 nav:
     - Home: index.md
     - About: about.md
-theme: mkdocs
+    - IG: 
+        - 'animal': ./IG/Definition.md
+theme: material
