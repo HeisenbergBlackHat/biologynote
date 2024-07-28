@@ -17,3 +17,9 @@
 
 **Oxygenated blood** - Oxygenated blood is simply a blood cell with a high proportion of <span class="highlight_font">oxygen</span> and a low amount of carbon dioxide.
 
+```mermaid
+flowchart LR
+    Start --> Stop
+```
+
+md_mermaid
