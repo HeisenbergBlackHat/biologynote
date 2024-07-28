@@ -1,5 +1,6 @@
 site_name: Biologynote
 nav:
-    - Home: index.md
+    - IG: 
+        - 'Chapter 9 Transport in animals': ./IG/transport_in_animals.md
     - About: about.md
 theme: material
