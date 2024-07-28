@@ -1,5 +1,0 @@
-site_name: BiologyNote
-nav:
-    - Home: index.md
-    - About: about.md
-theme: mkdocs
