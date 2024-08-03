@@ -36,3 +36,21 @@ chambers. The two <span class="highlight_font">upper chambers</span> are called 
 
 **Pulmonary veins** - Blood vessels that transfer freshly oxygenated blood from the lungs to the <span class="highlight_font">left atria</span> of the heart.
 
+**Venae cavae** - A large vein that <span class="highlight_font">carries blood</span> to the heart. In anatomy, the venae cavae are two large veins (great vessels) that return deoxygenated blood from the body into the heart
+
+**artery** - The part of your circulatory (cardiovascular) system, are the blood vessels that bring oxygen-rich blood from your heart to all of your body's cells.
+
+**Aorta** - The first and largest artery in the body. It is responsible for transporting nutrient-rich blood to the systemic circulation following ejection from the left ventricle of the heart.
+
+
+**Pulmonary artery** - The pulmonary arteries function to <span class="highlight_font">transport deoxygenated blood</span> from the right side of the heart to the <span class="highlight_font">lungs</span> for oxygenation
+
+### Valves
+
+**Atrioventricular valves** - The four valves in the mammalian heart are two atrioventricular valves <span class="highlight_font">separating</span> the upper atria from the lower ventricles. They allow blood to flow from the <span class="highlight_font">atria</span> into the <span class="highlight_font">ventricles</span> but prevent it from going in the opposite direction.
+
+
+**Semilunar valves** - The valves in the entrances to the <span class="highlight_font">aorta</span> and the <span class="highlight_font">pulmonary artery</span>.
+
+### Coronary arteries
+
