@@ -62,4 +62,18 @@ chambers. The two <span class="highlight">upper chambers</span> are called atria
 
 **Arteries** - Arteries, part of your circulatory (cardiovascular) system, are the blood vessels that bring <span class="highlight">oxygen-rich blood</span> from your heart to all of your body's cells.
 
-**capillaries**
+**Capillaries** - Capillaries, very tiny vessels, deliver blood containing oxygen and nutrients close to every cell in the body. No cell is very far away from a capillary.
+
+**Veins** - Blood vessels located throughout your body that collect oxygen-poor blood and return it to your heart
+
+**Hepatic artery** - Hepatic artery supplies the liver with oxygen-rich arterial blood.
+
+**Hepatic portal vein** - This vein brings blood from the digestive system, so that the liver can process the food which has been absorbed, before it travels to other parts of the body.
+
+**Hepatic veins** - All the blood leaves the liver in the hepatic veins.
+
+
+### Blood
+
+**Plasma** - The liquid part of blood is called plasma.
+
